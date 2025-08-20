@@ -13,6 +13,24 @@ To write a Python program to check whether the given number is **even** or **odd
 
 ## 🧾 Program
 
+```
+Name:Harisha S
+Reg No:212223040063
+
+```
+```
+a = int(input("Enter a number: "))
+if a % 2 == 0:
+    print("EVEN")
+else:
+    print("ODD")
+
+```
+
 ## Output
 
+<img width="450" height="258" alt="image" src="https://github.com/user-attachments/assets/1bb6ebc3-e00a-40b7-9666-9a9b8beced19" />
+
 ## Result
+
+Thus the program executed successfully.
